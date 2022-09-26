@@ -14,3 +14,8 @@ Cuando se carga en memoria se le donomina **proceso**. [[Componentes del Computa
 * Error inrecuperable: 
 	* Divicion por 0
 	* Acceder a memoria no asiganada al proceso
+***
+## Ejecucion de Instrucciones
+Al comienzo de cada ciclo **el procesador recupera la instruccion** del **Program Counter (PC)**{direccion de la proxima instruccion}
+- **IR ->** Interpreta y ejecuta la instruccion a ejecutar..
+
