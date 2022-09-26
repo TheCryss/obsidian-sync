@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fce200b6b17a6fcc",
+        "id": "b6faadc1e613ec26",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,9 +129,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fce200b6b17a6fcc",
+  "active": "b6faadc1e613ec26",
   "lastOpenFiles": [
+    "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
     "Univalle/Semestre III/Sistemas Operativos/Componentes del Computador.md",
-    "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md"
+    "Univalle/Semestre III/Sistemas Operativos/Gestion de Interrupciones.md"
   ]
 }
