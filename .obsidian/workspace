@@ -7,12 +7,8 @@
         "id": "80e34350c9dd39c0",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Univalle/Semestre III/Sistemas Operativos/Jerarquia de Memoria.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/Jerarquia de Memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/Jerarquia de Memoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/Jerarquia de Memoria.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,9 +131,9 @@
   },
   "active": "80e34350c9dd39c0",
   "lastOpenFiles": [
+    "Univalle/Semestre III/Sistemas Operativos/Jerarquia de Memoria.md",
     "Univalle/Semestre III/Sistemas Operativos/Componentes del Computador.md",
     "Univalle/Semestre III/Sistemas Operativos/Gestion de Interrupciones.md",
-    "Univalle/Semestre III/Sistemas Operativos/Jerarquia de Memoria.md",
     "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
     "Multimedia/Programa Sin interrupciones.png",
     "Multimedia/Programa con Interrupciones.png",
