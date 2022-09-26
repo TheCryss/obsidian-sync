@@ -31,6 +31,7 @@ Busca dar **acceso rapido a datos/instrucciones** dando mayor capacidad que los 
 ***
 ### Niveles Cache
 ![[cache levels.png]]
+>mientras mas cerca esta la memoria cache al procesador menor sera su nivel
 ***
 ## Comunicación Cache-RAM
 El tamaño de la palabra en la memoria RAM como en la memoria cache es **igual**. Así mismo, el tamaño del bloque en la cache es igual al tamaño de bloque en la RAM. 
@@ -38,4 +39,14 @@ El tamaño de la palabra en la memoria RAM como en la memoria cache es **igual**
 - Cada palabra tiene una direccion de n-bits
 - Se divide en **bloques de 'K' palabras** asi pues hay M=2<sup>n</sup>/K bloques
 
-Cuando la CPU no encuentra una palabra en **cache** 
+Cuando la CPU no encuentra una palabra en **cache**:
+1. Se busca el bloque en la RAM.
+2. Se identifica un **slot** en la cache donde se ubicara el bloque.
+3. Se **copia** el bloque de la RAM en la Cache.
+
+Los programas del usuario usan direcciones de **memoria virtual** para acceder a los datos en la RAM. (Los convierten en **memoria real**).
+
+![[Cache-Ram process.png]]
+***
+## Diseño del Cache
+
