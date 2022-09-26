@@ -28,6 +28,8 @@ Busca dar **acceso rapido a datos/instrucciones** dando mayor capacidad que los 
 ![[Esquema CPU-Cache-RAM.png]]
 - Entre la **cache y CPU** se tranfieren **palabras** estas siguen el tamaño de la arquitectura (32 y 64 bits)
 - Entre la **cache y RAM** se transfieren **bloques** los cuales favorecen el **principio de localidad**. [[Jerarquia de Memoria#^localidad-referencial]]
-
+***
 ### Niveles Cache
 ![[cache levels.png]]
+***
+## Comunicación Cache-RAM
