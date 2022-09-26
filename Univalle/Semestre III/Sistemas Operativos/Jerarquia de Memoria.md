@@ -9,7 +9,7 @@
 ![[Hit ratio y tiempo promedio de acceso.png]]
 
 ***
-Los compiladores y hardware al momento de convertir programas a lenguaje maquina aprovechan el **principio de localidad referencial**-> Los datos mas usados/referenciados se almacenan en **zonas de memoria mas rapida**  ^  
+Los compiladores y hardware al momento de convertir programas a lenguaje maquina aprovechan el **principio de localidad referencial**-> Los datos mas usados/referenciados se almacenan en **zonas de memoria mas rapida**. ^localidad-referencial
 
 ***
 ## Orden Jerarquico de Memoria mas Rapida
@@ -27,4 +27,7 @@ Busca dar **acceso rapido a datos/instrucciones** dando mayor capacidad que los 
 
 ![[Esquema CPU-Cache-RAM.png]]
 - Entre la **cache y CPU** se tranfieren **palabras** estas siguen el tamaño de la arquitectura (32 y 64 bits)
-- Entre la **cache y RAM** se transfieren **bloques** los cuales favorecen el **principio de localidad**. [[Gestion de Interrupciones^]]
+- Entre la **cache y RAM** se transfieren **bloques** los cuales favorecen el **principio de localidad**. [[Jerarquia de Memoria#^localidad-referencial]]
+
+### Niveles Cache
+![[cache levels.png]]
