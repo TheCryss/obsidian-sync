@@ -8,10 +8,10 @@ Cuando una proceso es **muy lento** el procesador lo interrumpe, para **maximiza
 **I/O ->** Interrumpe en el momento que una tarea de un periferico termina, *Ej: manda a leer un dato en el disco duro y al momento de terminar llama al procesador*
 **Hardware Failure ->** Generada por un error, *Ej: Daño en el procesador, disco, etc...*
 
-## Ejemplo de una operacion SIN interrupciones
+### Ejemplo de una operacion SIN interrupciones
 ![[Programa Sin interrupciones.png]]
 
-## Ejemplo de Operacion CON Interrupcioens
+### Ejemplo de Operacion CON Interrupciones
 ![[Programa con Interrupciones.png]]
 >La **x** representa una interrupcion cuando la operacion de I/O termina para hacer la limpieza de los datos que se generaron.
 
@@ -19,7 +19,7 @@ Cuando una proceso es **muy lento** el procesador lo interrumpe, para **maximiza
 - Cada dispositivo de I/O tiene sus propias instrucciones para leer/escribir datos
 - Existe un **overhead** al ejecutar una instruccion.
 ***
-## Procesamiento de Interrupciones
+## Procesamiento de Interrupciones al nivel del Sistema Operativo
 [[Componentes del Computador]]
 ### A nivel de Hardware
 1. Un dispositivo genera una interrupcion
@@ -34,5 +34,8 @@ Cuando una proceso es **muy lento** el procesador lo interrumpe, para **maximiza
 9. Restaura los valores iniciales de **PSW y PC**
 ---
 **Pila ->** segmento de memoria del computador dedicado a guardar el estado de ejecución de un proceso.
-
+### Empezando la Interrupción
 ![[Interrupcion a nivel de memoria.png]]
+
+### Finalizando la Interrupción
+![[Interrupcion a nivel de momoria final.png]]
