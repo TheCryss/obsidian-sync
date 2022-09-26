@@ -59,3 +59,8 @@ Cuando una proceso es **muy lento** el procesador lo interrumpe, para **maximiza
 ## Ejemplo de Operacion CON Interrupcioens
 ![[Pasted image 20220926010736.png]]
 >La **x** representa una interrupcion cuando la operacion de I/O termina para hacer la limpieza de los datos que se generaron.
+
+**Interrupt-handeler ->** Es generalmente una rutina del SO. 
+- Cada dispositivo de I/O tiene sus propias instrucciones para leer/escribir datos
+- Existe un **overhead** al ejecutar una instruccion.
+- 
