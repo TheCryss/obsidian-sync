@@ -33,3 +33,7 @@ Busca dar **acceso rapido a datos/instrucciones** dando mayor capacidad que los 
 ![[cache levels.png]]
 ***
 ## Comunicación Cache-RAM
+El tamaño de la palabra en la memoria RAM como en la memoria cache es **igual**. Así mismo, el tamaño del bloque en la cache es igual al tamaño de bloque en la RAM. 
+**RAM ->** tiene 2<sup>64</sup> **palabras** direccionables.
+- Cada palabra tiene una direccion de n-bits
+- Se divide en **bloques de 'K' palabras** asi pues hay M=2<sup>n</sup>/K bloques
