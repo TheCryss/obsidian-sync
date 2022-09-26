@@ -37,3 +37,5 @@ El tamaño de la palabra en la memoria RAM como en la memoria cache es **igual**
 **RAM ->** tiene 2<sup>64</sup> **palabras** direccionables.
 - Cada palabra tiene una direccion de n-bits
 - Se divide en **bloques de 'K' palabras** asi pues hay M=2<sup>n</sup>/K bloques
+
+Cuando la CPU no encuentra una palabra en **cache** 
