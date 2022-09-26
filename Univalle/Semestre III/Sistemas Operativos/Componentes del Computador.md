@@ -20,7 +20,7 @@ Un Sistema Operativo tiene como proposito **compartir eficientemente los recurso
 
 ---
 ## Internal Memory
-La memoria **RAM** no solo almacena datos sino tambien **procesos** (un programa pasa a ser un proceso en el momento en que es cargado, **se guarda en memoria las instrucciones que componen el programa**)
+La memoria **RAM** no solo almacena datos sino tambien **procesos** (un programa pasa a ser un proceso en el momento en que es cargado, **se guarda en memoria las instrucciones que componen el programa**) 
 
 ---
 ## Microprocesador
