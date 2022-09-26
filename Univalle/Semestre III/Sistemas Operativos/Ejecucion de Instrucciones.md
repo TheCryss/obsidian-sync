@@ -55,3 +55,7 @@ Cuando una proceso es **muy lento** el procesador lo interrumpe, para **maximiza
 
 ## Ejemplo de una operacion SIN interrupciones
 ![[Pasted image 20220926005546.png]]
+
+## Ejemplo de Operacion CON Interrupcioens
+![[Pasted image 20220926010736.png]]
+>La **x** representa una interrupcion cuando la operacion de I/O termina para hacer la limpieza de los datos que se generaron.
