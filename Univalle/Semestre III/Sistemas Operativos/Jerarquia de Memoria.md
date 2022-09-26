@@ -9,7 +9,9 @@
 ![[Hit ratio y tiempo promedio de acceso.png]]
 
 ***
-Los compiladores y hardware al momento de convertir programas a lenguaje maquina aprovechan el **principio de localidad referencial**-> Los datos mas usados/referenciados se almacenan en **zonas de memoria mas rapida**.
+Los compiladores y hardware al momento de convertir programas a lenguaje maquina aprovechan el **principio de localidad referencial**-> Los datos mas usados/referenciados se almacenan en **zonas de memoria mas rapida**  ^  
+
+***
 ## Orden Jerarquico de Memoria mas Rapida
 1. Registros [[Componentes del Computador#^77de5a]]
 2. Cache
@@ -24,4 +26,5 @@ Las instrucciones del procesador **acceden a datos e instrucciones**.
 Busca dar **acceso rapido a datos/instrucciones** dando mayor capacidad que los **registros** y con **bajos tiempos de acceso**. 
 
 ![[Esquema CPU-Cache-RAM.png]]
-- Entre la **cache y CPU** se tranfieren **palabras** estas siguen el tamaño de la arquitectura 
+- Entre la **cache y CPU** se tranfieren **palabras** estas siguen el tamaño de la arquitectura (32 y 64 bits)
+- Entre la **cache y RAM** se transfieren **bloques** los cuales favorecen el **principio de localidad**. [[Gestion de Interrupciones^]]
