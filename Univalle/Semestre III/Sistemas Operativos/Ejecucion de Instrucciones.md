@@ -51,4 +51,7 @@ Cuando una proceso es **muy lento** el procesador lo interrumpe, para **maximiza
 **Program ->** Interrupcion generada por programa, *Ej: arithmetic overflow, division by zero, etc...*
 **Timer ->** Permiten sistemas de multiple procesamiento, conmutando los procesos, permite ejecutar tareas en ciclos de tiempo.
 **I/O ->** Interrumpe en el momento que una tarea de un periferico termina, *Ej: manda a leer un dato en el disco duro y al momento de terminar llama al procesador*
-**Hardware Failure ->** Generada por un erro 
+**Hardware Failure ->** Generada por un error, *Ej: Daño en el procesador, disco, etc...*
+
+## Ejemplo de una operacion SIN interrupciones
+![[Pasted image 20220926005546.png]]
