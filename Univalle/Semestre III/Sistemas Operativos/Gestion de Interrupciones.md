@@ -39,3 +39,9 @@ Cuando una proceso es **muy lento** el procesador lo interrumpe, para **maximiza
 
 ### Finalizando la Interrupción
 ![[Interrupcion a nivel de momoria final.png]]
+***
+## Múltiples Interrupciones
+A veces durante un interrupcion **nuevas interrupciones se ponen en cola**.
+**Ej ->** La interrupcion de una **tarjeta de red** (+) tiene **mas** prioridad sobre la interrupcion de **disco duro** (-) pues los datos entrantes si no se atienden pueden requerir ser retrasmitidos.
+>Para administrar varias interrupciones se da distinta prioridada según el tipo 
+>Ej -> Comunicacion (5) , Disco(4), Impresora(2)
