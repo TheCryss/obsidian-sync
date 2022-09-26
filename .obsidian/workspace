@@ -7,8 +7,12 @@
         "id": "b6faadc1e613ec26",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Univalle/Semestre III/Sistemas Operativos/Gestion de Interrupciones.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Univalle/Semestre III/Sistemas Operativos/Gestion de Interrupciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Univalle/Semestre III/Sistemas Operativos/Gestion de Interrupciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Univalle/Semestre III/Sistemas Operativos/Gestion de Interrupciones.md"
+              }
             }
           },
           {
@@ -131,8 +139,11 @@
   },
   "active": "b6faadc1e613ec26",
   "lastOpenFiles": [
-    "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
+    "Univalle/Semestre III/Sistemas Operativos/Interrupcion a nivel de memoria.png",
+    "Univalle/Semestre III/Sistemas Operativos/Programa con Interrupciones.png",
+    "Univalle/Semestre III/Sistemas Operativos/Programa Sin interrupciones.png",
+    "Univalle/Semestre III/Sistemas Operativos/Gestion de Interrupciones.md",
     "Univalle/Semestre III/Sistemas Operativos/Componentes del Computador.md",
-    "Univalle/Semestre III/Sistemas Operativos/Gestion de Interrupciones.md"
+    "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md"
   ]
 }
