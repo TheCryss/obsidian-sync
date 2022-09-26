@@ -120,8 +120,17 @@
                 "file": "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md"
               }
             }
+          },
+          {
+            "id": "ec61805c02d1442c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -130,6 +139,7 @@
   },
   "active": "fce200b6b17a6fcc",
   "lastOpenFiles": [
+    "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
     "Univalle/Semestre III/Sistemas Operativos/Componentes del Computador.md"
   ]
 }
