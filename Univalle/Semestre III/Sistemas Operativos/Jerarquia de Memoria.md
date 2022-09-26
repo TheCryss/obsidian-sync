@@ -19,3 +19,9 @@ Los compiladores y hardware al momento de convertir programas a lenguaje maquina
 	- Se conoce como **memoria secundaria/auxilar** y en linux como **swap**.
 
 Las instrucciones del procesador **acceden a datos e instrucciones**.
+***
+## Memoria Cache
+Busca dar **acceso rapido a datos/instrucciones** dando mayor capacidad que los **registros** y con **bajos tiempos de acceso**. 
+
+![[Esquema CPU-Cache-RAM.png]]
+- Entre la **cache y CPU** se tranfieren **palabras** estas siguen el tamaño de la arquitectura 
