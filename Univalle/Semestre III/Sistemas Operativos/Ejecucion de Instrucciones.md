@@ -8,7 +8,6 @@ Cuando se carga en memoria se le donomina **proceso**. [[Componentes del Computa
 | Se extrae el proceso desde la memoria RAM (main memory) | Ejecuta la instruccion extraida |
 ***
 ## Errores
-
 * El procesador no recibe energia.
 * se alcanza una instruccion para deterner el programa, ej: exit()
 * Error inrecuperable: 
@@ -35,12 +34,21 @@ En una maquina de **16 bits [0-15]** los 4 primeros bits correspondedn al **tipo
 ==0001== = Load AC from memory.
 ==0010== = Store AC to memory.
 ==0100== = Add to AC form memory.
-**Acucumulator (AC)->** Temporary storage
+**Accumulator (AC)->** Temporary storage
 Los otros **12 bits** corresponden a la dirreccion.
 
-#### Almacenamiento de Datos Enteros
+#### Almacenamiento de Datos Enteros:
  **1 bit** para representar el **signo**, los otros **15 bits** para indicar la **magnitud**(valor del numero).
  
- >Para calcular la cantidad de valores que permiten x bits es igual a 2<sup>x</sup>
- >ej: para calcular la cantidad de direcciones a las que se puede acceder con 12 bits es   2<sup>12</sup>
- 
+ >Para calcular la cantidad de valores que permiten x bits es igual a 2<sup>x</sup> 
+ >Ej: para calcular la cantidad de direcciones a las que se puede acceder con 12 bits es   2<sup>12</sup>
+***
+## Interrupciones
+Cuando una proceso es **muy lento** el procesador lo interrumpe, para **maximizar el uso del procesador**, para esto:
+- Entrelasa operaciones de I/O con operaciones de **procesamiento**.
+
+### Tipos de Instrucciones
+**Program ->** Interrupcion generada por programa, *Ej: arithmetic overflow, division by zero, etc...*
+**Timer ->** Permiten sistemas de multiple procesamiento, conmutando los procesos, permite ejecutar tareas en ciclos de tiempo.
+**I/O ->** Interrumpe en el momento que una tarea de un periferico termina, *Ej: manda a leer un dato en el disco duro y al momento de terminar llama al procesador*
+**Hardware Failure ->** Generada por un erro 
