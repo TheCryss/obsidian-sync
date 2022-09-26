@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "dd690ad8c0f15bcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "fce200b6b17a6fcc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93478c0a7e9cef71",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d7e883d0b3413c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c30936a77f70662",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c5bf1fdc07dc9cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "916ecdadbe2be4d5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd9c19f15e8d52e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b51596f00400f6ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7437cb47e214f26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bff795a15cf66c53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1b4cfec1d681f19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1a4734103f263af5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fce200b6b17a6fcc",
+  "lastOpenFiles": [
+    "Univalle/Semestre III/Sistemas Operativos/Componentes del Computador.md"
+  ]
+}
