@@ -4,7 +4,7 @@ Un Sistema Operativo tiene como proposito **compartir eficientemente los recurso
 
 - **Procesador ->** Ejecutar procesos.
 - **Dispositivos de Almacenamiento (main memory) ->** Almacena procesos, programas archivos.
-- **Modulos | Entrdada / Salida (I/O)->** Mover datos desde fuera del PC hacie el PC y viceversa.
+- **Modulos | Entrada / Salida (I/O)->** Mover datos desde fuera del PC hacie el PC y viceversa.
 - **Bus del Sistema ->** Provee comunicación entre todas las partes del PC. (existen varios)
 ---
 ## CPU

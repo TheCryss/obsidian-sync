@@ -40,6 +40,7 @@ Los otros **12 bits** corresponden a la dirreccion.
 
 #### Almacenamiento de Datos Enteros
  **1 bit** para representar el **signo**, los otros **15 bits** para indicar la **magnitud**(valor del numero).
+ 
  >Para calcular la cantidad de valores que permiten x bits es igual a 2<sup>x</sup>
  >ej: para calcular la cantidad de direcciones a las que se puede acceder con 12 bits es   2<sup>12</sup>
  
