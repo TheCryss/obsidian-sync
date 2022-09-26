@@ -8,11 +8,11 @@ Un Sistema Operativo tiene como proposito **compartir eficientemente los recurso
 - **Bus del Sistema ->** Provee comunicación entre todas las partes del PC. (existen varios)
 ---
 ## CPU
-**Registros ->** Son la zona de almacenamiento mas rapida a la que accede la *CPU* 
+**Registros ->** Son la zona de almacenamiento mas rapida a la que accede la *CPU* : ^77de5a
  1. (la arquitectura del sistema es proporcial al tamaño de los registros ej: 32, 64 bits)
  2. *Registros principales*
 	 - **Program Counter (PC)** -> Identifica la **proxima instrucción** para ser recuperada en la CPU.
-	 - **Instruction Register (IR)** -> Alamcena la instruccion recuperada de la **main memory** y ahora esta almacenada en CPU.
+	 - **Instruction Register (IR)** -> Almacena la instruccion recuperada de la **main memory** (RAM) para ser ejecutada en la CPU.
 		 - Determina el tipo de instruccion que va a ser ejecutado.
 	 - **Memory Address Register (MAR)** -> Direccion de la memoria a *leer/escribir*.
 	 - **Memory Buffer Register (MBR)** -> Datos a escribir / lugar de momemoria donde se almacenara. 
