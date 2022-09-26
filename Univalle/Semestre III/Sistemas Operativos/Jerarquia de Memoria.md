@@ -6,3 +6,4 @@
 ![[Piramide Jerarquia Memoria.png]]
 - Mas arriba (+$)^(+v)
 - Mas abano (-$)^(-v)^(+T)
+![[Hit ratio y tiempo promedio de acceso.png]]
