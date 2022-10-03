@@ -1,7 +1,7 @@
 # Procesamiento Serial
 Los mensajes de error se indicaban por luces y atravez de **tarjetas perforadas** se les indicaba como ejecutar acciones y es mediante **impreciones** en hojas que el programador sabia que la tarea se ejecuto correctamente **(printout)**.
 - **Scheduling ->** Hoja donde se especifica el tiempo durante el cual se usara la maquina (ordenar la ejecucion de programas).
-- **Setup ->** Cada tarea involucra
+- **Setup ->** Cada tarea involucra.
 ### Proceso de Ejecucion =>
 | Load tables | Load Source Code | Compile | Save Compile Code | Link object Program | Run |
 | ----------- | ---------------- | ------- | ----------------- | ------------------- | --- |
@@ -27,7 +27,7 @@ El proceso se automatiza.
 - Lectura de Instrucciones desde la **main memory**.
 - El control de operaciones se le pasa al **trabajo**.
 - Cuando un trabajo es exitoso termina con un **ok** o **condicion de error**.
-- Al terminar un proceso se devuelve el control al monitor
+- Al terminar un proceso se devuelve el control al monitor.
 #### Caracteristicas Esperadas del Hardware
 | Memory Protection      | Timer                                      | PRivileged Instructions                                                                  | Interrupts               |
 | ---------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------- | ------------------------ |
@@ -40,7 +40,11 @@ El proceso se automatiza.
 Apesar del mayor uso de la CPU aun hay momentos de subutilizacion del procesador, Devido a que durante las tareas de I/O la CPU debe esperar a que estas sean cargadas pues se disponen de manera *secuencia* llevando a momentos de subutilizacion.
 ***
 # Sistemas por Lotes Multiprogramados
-Buscan tener **varios programas dentro de memoria** para optimizar el uso de la CPU
+Buscan tener **varios programas dentro de memoria** para optimizar el uso de la CPU.
 * La CPU esta en espera un 96% de las veces durante las operaciones de I/O.
 - Mas memoria premite alojar mas programas asi cuando se espera por una operacion de I/O se otro programa puede usar la CPU.
 - Programas con mas de 2 programas se conocen como **Multitasking/Multiprogramming**.
+## Elemetos que Agilizan y mejoran el rendimiento de la CPU
+**DMA ->** Direct Memory Access es donde los drivers de I/O tabajan de manera cordinada con la CPU.
+**Interrupt Management**.
+**Memory Management ->** Identificar los distintos segmentos de un proceso para compartir regiones de memoria entre diferentes aplicaciones. 
