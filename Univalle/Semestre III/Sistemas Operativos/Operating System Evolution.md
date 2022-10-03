@@ -37,4 +37,10 @@ El proceso se automatiza.
 2. **Kernel ->** Monitor en operacion.
 > Ir y venir entre programas de usuario y monitor causaba mas costo compuacional pero **valia la pena**. 
 
-Apesar del mayor uso de la CPU aun hay momentos de subutilizacion del procesador.
+Apesar del mayor uso de la CPU aun hay momentos de subutilizacion del procesador, Devido a que durante las tareas de I/O la CPU debe esperar a que estas sean cargadas pues se disponen de manera *secuencia* llevando a momentos de subutilizacion.
+***
+# Sistemas por Lotes Multiprogramados
+Buscan tener **varios programas dentro de memoria** para optimizar el uso de la CPU
+* La CPU esta en espera un 96% de las veces durante las operaciones de I/O.
+- Mas memoria premite alojar mas programas asi cuando se espera por una operacion de I/O se otro programa puede usar la CPU.
+- Programas con mas de 2 programas se conocen como **Multitasking/Multiprogramming**.
