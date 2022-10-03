@@ -48,3 +48,8 @@ Buscan tener **varios programas dentro de memoria** para optimizar el uso de la 
 **DMA ->** Direct Memory Access es donde los drivers de I/O tabajan de manera cordinada con la CPU.
 **Interrupt Management**.
 **Memory Management ->** Identificar los distintos segmentos de un proceso para compartir regiones de memoria entre diferentes aplicaciones. 
+***
+# Sistemas de Tiempo compartido
+Nacen frente a la necesidad de que el **sistema responda cada vez que se interactua** con el. 
+- 80s aparece el concepto de interactivada junto con:
+- **Time Sharing ->** Muchos usuarios de manera simultanea acceden a los recursos. 
