@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "49d6b65dbc9f89b9",
+        "id": "ffb4e6c73e296c69",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -135,15 +135,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "8c30936a77f70662",
+  "active": "ffb4e6c73e296c69",
   "lastOpenFiles": [
-    "Univalle/Semestre III/Sistemas Operativos/Jerarquia de Memoria.md",
+    "2022-10-02.md",
+    "Univalle/Semestre III/Sistemas Operativos/Operating System Evolution.md",
     "Univalle/Semestre III/Sistemas Operativos/Gestion de Interrupciones.md",
-    "Univalle/Semestre III/Sistemas Operativos/Componentes del Computador.md",
+    "Univalle/Semestre III/Sistemas Operativos/Jerarquia de Memoria.md",
     "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
+    "Univalle/Semestre III/Sistemas Operativos/Componentes del Computador.md",
     "Multimedia/Programa Sin interrupciones.png",
     "Multimedia/Programa con Interrupciones.png",
     "Multimedia/Interrupcion a nivel de memoria.png",

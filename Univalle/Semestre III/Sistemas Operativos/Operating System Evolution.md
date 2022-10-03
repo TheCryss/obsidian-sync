@@ -2,8 +2,39 @@
 Los mensajes de error se indicaban por luces y atravez de **tarjetas perforadas** se les indicaba como ejecutar acciones y es mediante **impreciones** en hojas que el programador sabia que la tarea se ejecuto correctamente **(printout)**.
 - **Scheduling ->** Hoja donde se especifica el tiempo durante el cual se usara la maquina (ordenar la ejecucion de programas).
 - **Setup ->** Cada tarea involucra
+### Proceso de Ejecucion =>
 | Load tables | Load Source Code | Compile | Save Compile Code | Link object Program | Run |
 | ----------- | ---------------- | ------- | ----------------- | ------------------- | --- |
 Estos pasos se hacian manualmente
 - Tenian precios elevados $850.000 
+***
 # Sistemas Simples por Lotes (batch)
+Consiste de un **monitor (sistema operativo primitivo para ejecutar tareas de forma secuencial)** que evita la **interaccion directa** entre usuarios y procesador.
+### Proceso de ejecucion =>
+| Load Punched Cards | Job is Batched (se encola) | Monitor Read from Batch | Run the Program | Output is Set to a Printer | Repeat | 
+| ------------------ | -------------------------- | ----------------------- | --------------- | -------------------------- | ------ |
+El proceso se automatiza.
+## Desde la Perspectiva del Monitor
+- Siempre recide en memoria.
+- Provee los drivers y interpretadores.
+- Maneja las Interrupciones.
+- Lleva el procesador a trabajar.
+#### Tareas del Monitor
+| Scheduling | Setup                            |
+| ---------- | -------------------------------- |
+| Queue jobs | Load compilers,loads object code | 
+## Desde la Perspectiva del Procesador
+- Lectura de Instrucciones desde la **main memory**.
+- El control de operaciones se le pasa al **trabajo**.
+- Cuando un trabajo es exitoso termina con un **ok** o **condicion de error**.
+- Al terminar un proceso se devuelve el control al monitor
+#### Caracteristicas Esperadas del Hardware
+| Memory Protection      | Timer                                      | PRivileged Instructions                                                                  | Interrupts               |
+| ---------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------- | ------------------------ |
+| Esquemas de proteccion | Definir intervalos de tiempo para trabajos | Subconjunto de instrucciones corridas solo por el monitor, evitando intervencion externa | Manejo de Interrupciones | 
+## Modos de Operacion
+1. **Usuario ->** Tareas de usuario se realizan en este modo.
+2. **Kernel ->** Monitor en operacion.
+> Ir y venir entre programas de usuario y monitor causaba mas costo compuacional pero **valia la pena**. 
+
+Apesar del mayor uso de la CPU aun hay momentos de subutilizacion del procesador.
