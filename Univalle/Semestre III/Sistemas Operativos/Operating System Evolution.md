@@ -29,9 +29,9 @@ El proceso se automatiza.
 - Cuando un trabajo es exitoso termina con un **ok** o **condicion de error**.
 - Al terminar un proceso se devuelve el control al monitor.
 #### Caracteristicas Esperadas del Hardware
-| Memory Protection      | Timer                                      | PRivileged Instructions                                                                  | Interrupts               |
+| Memory Protection      | Timer                                      | Privileged Instructions                                                                  | Interrupts               |
 | ---------------------- | ------------------------------------------ | ---------------------------------------------------------------------------------------- | ------------------------ |
-| Esquemas de proteccion | Definir intervalos de tiempo para trabajos | Subconjunto de instrucciones corridas solo por el monitor, evitando intervencion externa | Manejo de Interrupciones | 
+| Esquemas de proteccion | Definir intervalos de tiempo para trabajos | Subconjunto de instrucciones corridas solo por el monitor, evitando intervencion externa | Manejo de Interrupciones |
 ## Modos de Operacion
 1. **Usuario ->** Tareas de usuario se realizan en este modo.
 2. **Kernel ->** Monitor en operacion.
@@ -52,4 +52,6 @@ Buscan tener **varios programas dentro de memoria** para optimizar el uso de la 
 # Sistemas de Tiempo compartido
 Nacen frente a la necesidad de que el **sistema responda cada vez que se interactua** con el. 
 - 80s aparece el concepto de interactivada junto con:
-- **Time Sharing ->** Muchos usuarios de manera simultanea acceden a los recursos. 
+- **Time Sharing ->** Muchos usuarios de manera simultanea acceden a los sistemas de computo.
+- Cada usuario tiene un **quantum** para hacer computacion asi pues, cada usuario tiene una 1/n de la capacidad de computo. **OS overhead es ignorado**
+- Tanto la programacion por lotes como por tiempo compartido usan multitasking
