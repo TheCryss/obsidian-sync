@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bd9c19f15e8d52e0",
@@ -137,7 +138,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49d6b65dbc9f89b9",
+  "active": "8c30936a77f70662",
   "lastOpenFiles": [
     "Univalle/Semestre III/Sistemas Operativos/Jerarquia de Memoria.md",
     "Univalle/Semestre III/Sistemas Operativos/Gestion de Interrupciones.md",
