@@ -15,7 +15,7 @@ Un Sistema Operativo tiene como proposito **compartir eficientemente los recurso
 	 - **Instruction Register (IR)** -> Almacena la instruccion recuperada de la **main memory** (RAM) para ser ejecutada en la CPU.
 		 - Determina el tipo de instruccion que va a ser ejecutado.
 	 - **Memory Address Register (MAR)** -> Direccion de la memoria a *leer/escribir*.
-	 - **Memory Buffer Register (MBR)** -> Datos a escribir / lugar de momemoria donde se almacenara. 
+	 - **Memory Buffer Register (MBR)** -> Datos a escribir / lugar de memoria donde se almacenara. 
 **Execution Unit ->** Ejecuta la instruccion de **IR** puede hacer operaciones *aritmeticas, logicas, etc..*
 
 ---
