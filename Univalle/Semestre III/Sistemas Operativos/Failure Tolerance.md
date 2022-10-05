@@ -18,3 +18,13 @@ Estado erroneo de hardware o software causado por aspectos o elementos en el amb
 - **Temporales:**
 	- *Transitorias:* Ocurre una sola vez por alguna eventualidad.
 	- *Interminente:* Ocurre varias veces y de manera imprevista.
+## Como aplicar la redundancia
+**Redundancia Espacial:** Copia de un mismo componente que puede realizar la misma capacidad. ej: Plantas de diesel (copia en pequeño) para proveer electricidad frente al fallo de emcali.
+**Redundancia Temporal:** Repetir una funcion u operación cuando se identifica un error. ej: retransmitir un dato corrupto.
+**Redundancia de la Informacion:** La informacion se encuentra replicada en diferentes partes asi frente al fallo se puede recuperar.
+## Otros mecanismos de FT
+**Aislamiento de procesos:** Los procesos son entidades idependientes que no comparten nada de su estructura con otros procesos.
+**Controles de Concurrencia:** Varios procesos tratan de accder a un recurso compartido.
+**Maquina Virtual:** Provee alto nivel de aislamiento, se usan para proveer redundancia.
+**Checkpoints and Rollback:** Puntos de control que almacenan el estado consistente y establece una aplicacion.
+***
