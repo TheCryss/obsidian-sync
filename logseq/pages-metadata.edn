@@ -1,0 +1,120 @@
+[{:block/name "a",
+  :block/created-at 1665004167926,
+  :block/updated-at 1665004167926}
+ {:block/name "b",
+  :block/created-at 1665004167926,
+  :block/updated-at 1665004167926}
+ {:block/name "c",
+  :block/created-at 1665004167925,
+  :block/updated-at 1665004167925}
+ {:block/name "cache levels.png",
+  :block/created-at 1665003892067,
+  :block/updated-at 1665003892067}
+ {:block/name "cache-ram process.png",
+  :block/created-at 1665003892069,
+  :block/updated-at 1665003892069}
+ {:block/name "canceled",
+  :block/created-at 1665004167925,
+  :block/updated-at 1665004167925}
+ {:block/name "cancelled",
+  :block/created-at 1665004167925,
+  :block/updated-at 1665004167925}
+ {:block/name "card",
+  :block/created-at 1665004167925,
+  :block/updated-at 1665004167925}
+ {:block/name "componentes del computador",
+  :block/created-at 1665003892019,
+  :block/updated-at 1665003892019}
+ {:block/name "componentes del computador#^77de5a",
+  :block/created-at 1665003892064,
+  :block/updated-at 1665003892064}
+ {:block/name "ctss-hdiw.png",
+  :block/created-at 1665003892197,
+  :block/updated-at 1665003892197}
+ {:block/name "doing",
+  :block/created-at 1665004167926,
+  :block/updated-at 1665004167926}
+ {:block/name "done",
+  :block/created-at 1665004167925,
+  :block/updated-at 1665004167925}
+ {:block/name "ejecucion de instrucciones",
+  :block/created-at 1665003891942,
+  :block/updated-at 1665003891942}
+ {:block/name "esquema cpu-cache-ram.png",
+  :block/created-at 1665003892065,
+  :block/updated-at 1665003892065}
+ {:block/name "failure tolerance",
+  :block/created-at 1665003891971,
+  :block/updated-at 1665003891971}
+ {:block/name "favorites",
+  :block/created-at 1665004167925,
+  :block/updated-at 1665004167925}
+ {:block/name "gestion de interrupciones",
+  :block/created-at 1665003892025,
+  :block/updated-at 1665003892025}
+ {:block/name "hit ratio y tiempo promedio de acceso.png",
+  :block/created-at 1665003892063,
+  :block/updated-at 1665003892063}
+ {:block/name "in-progress",
+  :block/created-at 1665004167925,
+  :block/updated-at 1665004167925}
+ {:block/name "interrupcion a nivel de memoria.png",
+  :block/created-at 1665003892022,
+  :block/updated-at 1665003892022}
+ {:block/name "interrupcion a nivel de momoria final.png",
+  :block/created-at 1665003892023,
+  :block/updated-at 1665003892023}
+ {:block/name "jerarquia de memoria",
+  :block/created-at 1665003892070,
+  :block/updated-at 1665003892070}
+ {:block/name "jerarquia de memoria#^localidad-referencial",
+  :block/created-at 1665003892066,
+  :block/updated-at 1665003892066}
+ {:block/name "later",
+  :block/created-at 1665004167925,
+  :block/updated-at 1665004167925}
+ {:block/name "mayor achivements",
+  :block/created-at 1665003892098,
+  :block/updated-at 1665003892098}
+ {:block/name "multicore systems",
+  :block/created-at 1665003892114,
+  :block/updated-at 1665003892114}
+ {:block/name "new development",
+  :block/created-at 1665003892130,
+  :block/updated-at 1665003892130}
+ {:block/name "now",
+  :block/created-at 1665004167925,
+  :block/updated-at 1665004167925}
+ {:block/name "objectives of os and his funtion",
+  :block/created-at 1665003892152,
+  :block/updated-at 1665003892152}
+ {:block/name "oct 5th, 2022",
+  :block/created-at 1665003891800,
+  :block/updated-at 1665003891800}
+ {:block/name "operating system evolution",
+  :block/created-at 1665003892198,
+  :block/updated-at 1665003892198}
+ {:block/name "piramide jerarquia memoria.png",
+  :block/created-at 1665003892063,
+  :block/updated-at 1665003892063}
+ {:block/name "programa con interrupciones.png",
+  :block/created-at 1665003892017,
+  :block/updated-at 1665003892017}
+ {:block/name "programa sin interrupciones.png",
+  :block/created-at 1665003892014,
+  :block/updated-at 1665003892014}
+ {:block/name "readme",
+  :block/created-at 1665003891845,
+  :block/updated-at 1665003891845}
+ {:block/name "todo",
+  :block/created-at 1665004167926,
+  :block/updated-at 1665004167926}
+ {:block/name "tolerancia a fallos.png",
+  :block/created-at 1665003891969,
+  :block/updated-at 1665003891969}
+ {:block/name "wait",
+  :block/created-at 1665004167925,
+  :block/updated-at 1665004167925}
+ {:block/name "waiting",
+  :block/created-at 1665004167925, 
+  :block/updated-at 1665004167925}]
