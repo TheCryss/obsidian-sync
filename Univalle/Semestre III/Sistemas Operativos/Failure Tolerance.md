@@ -11,3 +11,10 @@ Es la capacidad de un sistema a continuar bajo condiciones normales de operacion
 **Downtime ->** Tiempo durante el cual un sistema no esta disponible.
 **Uptime ->** Tiempo durante el cual el sistema se encuentra disponible.
 **Disponibilidad ->** Se define como: A= MTTF (MTTF+MTTR) proporcion de tiempo durante la cual el sistema esta disponible.
+***
+# Fallas
+Estado erroneo de hardware o software causado por aspectos o elementos en el ambiente. Se categorizan en **2 grupos:**
+- **Permanentes:** Falla que siempre esta presente, se soluciona através del reemplazo de la pieza o componente.
+- **Temporales:**
+	- *Transitorias:* Ocurre una sola vez por alguna eventualidad.
+	- *Interminente:* Ocurre varias veces y de manera imprevista.
