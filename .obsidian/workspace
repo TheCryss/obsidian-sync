@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Univalle/Semestre III/Sistemas Operativos/New Development.md",
+            "file": "Univalle/Semestre III/Sistemas Operativos/Objectives of OS and his Funtion.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bd9c19f15e8d52e0",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/New Development.md",
+                "file": "Univalle/Semestre III/Sistemas Operativos/Objectives of OS and his Funtion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/New Development.md",
+                "file": "Univalle/Semestre III/Sistemas Operativos/Objectives of OS and his Funtion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/New Development.md"
+                "file": "Univalle/Semestre III/Sistemas Operativos/Objectives of OS and his Funtion.md"
               }
             }
           },
@@ -139,6 +140,7 @@
   },
   "active": "6395d54472411a7a",
   "lastOpenFiles": [
+    "Univalle/Semestre III/Sistemas Operativos/New Development.md",
     "Univalle/Semestre III/Sistemas Operativos/Multicore Systems.md",
     "Univalle/Semestre III/Sistemas Operativos/Failure Tolerance.md",
     "Univalle/Semestre III/Sistemas Operativos/Operating System Evolution.md",
@@ -147,7 +149,6 @@
     "Univalle/Semestre III/Sistemas Operativos/Componentes del Computador.md",
     "Univalle/Semestre III/Sistemas Operativos/Gestion de Interrupciones.md",
     "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
-    "Multimedia/Programa Sin interrupciones.png",
-    "Multimedia/Programa con Interrupciones.png"
+    "Multimedia/Programa Sin interrupciones.png"
   ]
 }
