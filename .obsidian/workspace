@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Univalle/Semestre III/Sistemas Operativos/Objectives of OS and his Funtion.md",
+            "file": "Univalle/Semestre III/Sistemas Operativos/Mayor Achivements.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/Objectives of OS and his Funtion.md",
+                "file": "Univalle/Semestre III/Sistemas Operativos/Mayor Achivements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/Objectives of OS and his Funtion.md",
+                "file": "Univalle/Semestre III/Sistemas Operativos/Mayor Achivements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/Objectives of OS and his Funtion.md"
+                "file": "Univalle/Semestre III/Sistemas Operativos/Mayor Achivements.md"
               }
             }
           },
@@ -140,15 +140,15 @@
   },
   "active": "6395d54472411a7a",
   "lastOpenFiles": [
+    "Univalle/Semestre III/Sistemas Operativos/Operating System Evolution.md",
+    "Univalle/Semestre III/Sistemas Operativos/Objectives of OS and his Funtion.md",
     "Univalle/Semestre III/Sistemas Operativos/New Development.md",
+    "Univalle/Semestre III/Sistemas Operativos/Jerarquia de Memoria.md",
+    "Univalle/Semestre III/Sistemas Operativos/Mayor Achivements.md",
     "Univalle/Semestre III/Sistemas Operativos/Multicore Systems.md",
     "Univalle/Semestre III/Sistemas Operativos/Failure Tolerance.md",
-    "Univalle/Semestre III/Sistemas Operativos/Operating System Evolution.md",
-    "Univalle/Semestre III/Sistemas Operativos/Jerarquia de Memoria.md",
     "conflict-files-obsidian-git.md",
     "Univalle/Semestre III/Sistemas Operativos/Componentes del Computador.md",
-    "Univalle/Semestre III/Sistemas Operativos/Gestion de Interrupciones.md",
-    "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
-    "Multimedia/Programa Sin interrupciones.png"
+    "Univalle/Semestre III/Sistemas Operativos/Gestion de Interrupciones.md"
   ]
 }
