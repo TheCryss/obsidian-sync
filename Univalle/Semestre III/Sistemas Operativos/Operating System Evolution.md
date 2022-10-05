@@ -54,4 +54,18 @@ Nacen frente a la necesidad de que el **sistema responda cada vez que se interac
 - 80s aparece el concepto de interactivada junto con:
 - **Time Sharing ->** Muchos usuarios de manera simultanea acceden a los sistemas de computo.
 - Cada usuario tiene un **quantum** para hacer computacion asi pues, cada usuario tiene una 1/n de la capacidad de computo. **OS overhead es ignorado**
-- Tanto la programacion por lotes como por tiempo compartido usan multitasking
+- Tanto la programacion por lotes como por tiempo compartido usan multitasking.
+- **Compatible Time-Sharing System (CTSS) ->** tenia 32.000 palabras cada una con una longitud de 36-bits.
+- **Monitor->** Consumia 5.000 palabras (0;4.999) a partir de ahi se cargaban los programas.
+- **Interrupcion de Reloj->** Cada 0,2 segundos se produce una y el OS gana control y asigna el procesador a otro usuario **(time slicing)**.
+- Los programas en memoria se escribian en disco hasta poder ser reanudada su ejecucion.
+## Como se mejoraba la eficiencia 
+![[CTSS-hdiw.png]]
+Con el fin de reducir el tiempo empleado durante las operaciondes de I/O no se reescribian por completo los programas, solo la parte requerida por la siguiente instruccion asi al momento de reanudar la tarea no se requeria tanto tiempo en escritura.
+## Sumary
+- Los procesos eran faciles  de alojar ya que todos empezaban en la misma direccion de memoria(5000).
+- La escritura parcial minimizaba el uso del disco.
+- Soportaban hasta **32 usuarios**.
+- La proteccion de datos era algo necesario (user-user, user-monitor)
+- Sistema de ficheros protegia datos de usuarios.
+- Distribucion de los recursos entre los diferentes usuarios.
