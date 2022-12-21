@@ -4,16 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "6395d54472411a7a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Univalle/Semestre III/Ingenieria Economica/Formulas financieras excel.md",
-            "mode": "source",
-            "source": false
+        "id": "c71cde2ceb554b14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6395d54472411a7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Univalle/Semestre III/Ingenieria Economica/Formulas financieras excel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7261ce2609934fb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -31,7 +48,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -137,7 +156,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6395d54472411a7a",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "e7261ce2609934fb",
   "lastOpenFiles": [
     "Univalle/Semestre III/Sistemas Operativos/Gestion de Interrupciones.md",
     "Univalle/Semestre III/Ingenieria Economica/Formulas financieras excel.md",
