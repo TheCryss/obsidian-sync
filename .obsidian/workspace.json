@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
+                "file": "Univalle/Semestre IV/Infraestructuras Paraleleas y Distribuidas/Primera Clase.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
+                "file": "Univalle/Semestre IV/Infraestructuras Paraleleas y Distribuidas/Primera Clase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
+                "file": "Univalle/Semestre IV/Infraestructuras Paraleleas y Distribuidas/Primera Clase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md"
+                "file": "Univalle/Semestre IV/Infraestructuras Paraleleas y Distribuidas/Primera Clase.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -191,16 +191,20 @@
   },
   "active": "40c5b59359af6fe5",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Univalle/Semestre IV/Infraestructuras Paraleleas y Distribuidas/Primera Clase.md",
+    "Univalle/Semestre III/Sistemas Operativos/New Development.md",
+    "Univalle/Semestre IV/Infraestructuras Paraleleas y Distribuidas",
+    "Univalle/Semestre IV",
+    "Univalle/Semestre III/Sistemas Operativos/Jerarquia de Memoria.md",
+    "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
     "Multimedia/Cache-Ram process.png",
     "Univalle/Semestre III/Sistemas Operativos/Objectives of OS and his Funtion.md",
-    "Univalle/Semestre III/Sistemas Operativos/New Development.md",
     "Univalle/Semestre III/Sistemas Operativos/Multicore Systems.md",
     "Univalle/Semestre III/Sistemas Operativos/Mayor Achivements.md",
-    "Univalle/Semestre III/Sistemas Operativos/Jerarquia de Memoria.md",
     "Univalle/Semestre III/Sistemas Operativos/Gestion de Interrupciones.md",
     "Univalle/Semestre III/Sistemas Operativos/Failure Tolerance.md",
     "Univalle/Semestre III/Sistemas Operativos/Componentes del Computador.md",
-    "Univalle/Semestre III/Sistemas Operativos/Ejecucion de Instrucciones.md",
     "Univalle/Semestre III/Ingenieria Economica/Formulas financieras excel.md"
   ]
 }
