@@ -3,3 +3,4 @@
 ***
 Programar en paralelo es dificil puesto que requiere mucho conocimiento en *hardware*. 
 **Programas Concurrentes:** Son costosos en recursoso y implican problemas de integridad en los datos. 
+*p da el **valor de la dirección**, p da la **dirección**.
