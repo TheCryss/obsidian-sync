@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "182d0b614953856f",
+        "id": "a828615e576a7963",
         "type": "tabs",
         "children": [
           {
-            "id": "8622294be11067c3",
+            "id": "838892aa78d8fc38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univalle/Semestre VI/Simulación y Computacion Numerica/Primera Clase.md",
+                "file": "Univalle/Semestre VI/Infraestructuras Paraleleas y Distribuidas/Primera Clase.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Univalle/Semestre VI/Simulación y Computacion Numerica/Primera Clase.md",
+                "file": "Univalle/Semestre VI/Infraestructuras Paraleleas y Distribuidas/Primera Clase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Univalle/Semestre VI/Simulación y Computacion Numerica/Primera Clase.md",
+                "file": "Univalle/Semestre VI/Infraestructuras Paraleleas y Distribuidas/Primera Clase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Univalle/Semestre VI/Simulación y Computacion Numerica/Primera Clase.md"
+                "file": "Univalle/Semestre VI/Infraestructuras Paraleleas y Distribuidas/Primera Clase.md"
               }
             }
           },
@@ -164,11 +164,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8622294be11067c3",
+  "active": "838892aa78d8fc38",
   "lastOpenFiles": [
     "Univalle/Semestre VI/Infraestructuras Paraleleas y Distribuidas/Primera Clase.md",
-    "Univalle/Semestre VI/Desarrollo II/Clase 1.md",
     "Univalle/Semestre VI/Simulación y Computacion Numerica/Primera Clase.md",
+    "Univalle/Semestre VI/Desarrollo II/Clase 1.md",
     "Univalle/Semestre VI/Desarrollo II",
     "Multimedia/Pasted image 20230824145404.png",
     "Multimedia/Pasted image 20230824145355.png",
